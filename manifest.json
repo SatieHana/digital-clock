@@ -2,7 +2,7 @@
   "short_name": "アプリ名（デジタル時計）",
   "name": "アプリ名（デジタル時計）",
   "display": "standalone",
-  "start_url": "./digital-clock/",
+  "start_url": "https://satiehana.github.io/digital-clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{
